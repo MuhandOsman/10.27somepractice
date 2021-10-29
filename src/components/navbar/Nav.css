@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background: #888;
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    
+}
+
+.nav li a {
+    color: #fff;
+
+}

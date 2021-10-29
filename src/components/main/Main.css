@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    width:500px
+}
+
+.main {
+    width:80% ;
+    margin: 0 auto;
+}
+
+.main button {
+    font-size:32px;
+    width: 250px;
+}
+.main div {
+    width : 500px;
+    margin: 0 auto;
+}
